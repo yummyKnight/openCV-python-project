@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import timeit
 
 def show_webcam():
     cap = cv2.VideoCapture(0)
